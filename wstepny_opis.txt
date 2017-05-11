@@ -1,0 +1,12 @@
+Aplikacja w WPF dla nauczycieli akademickich.
+
+Program bêdzie umo¿liwia³:
+wprowadznie danych osobowych studentów (indeks lub imie + nazwisko)
+wybranie rodzaju obwodu do rozwi¹zania (wzmaniacz operacyjny, filtr pasywny)
+generowanie arkuszy z wartoœciami danych elementów obowodu indywidualnie wylosowanymi dla ka¿dego studenta
+wyœwietalnie poprawnych rozwi¹zañ 
+
+Podzia³ zadañ:
+Kaczmarek Robert - metody opowiedzialne za: wprowadzanie danych, walidacjê wprowadzonych danych, generowanie arkuszy. Stworzenie klasy filtru pasywnego. 
+Stencel Jakub - metody odpowiedzialne za: losowanie parametrów dla elementów obwodu, przypisane wylosowanych parametrów dla studentów. Stworzenie klasy wzmacniacza.
+
