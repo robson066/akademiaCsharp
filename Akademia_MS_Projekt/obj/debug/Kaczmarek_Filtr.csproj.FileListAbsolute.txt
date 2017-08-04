@@ -1,0 +1,224 @@
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\Kaczmarek_Filtr.exe.config
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\Kaczmarek_Filtr.exe
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\Kaczmarek_Filtr.pdb
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\MaterialDesignColors.dll
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.csprojResolveAssemblyReference.cache
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\MainWindow.g.cs
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\App.g.cs
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr_MarkupCompile.cache
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\App.baml
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\MainWindow.baml
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.g.resources
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.Properties.Resources.resources
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.csproj.GenerateResource.Cache
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.exe
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.pdb
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\View\Filter.g.cs
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\View\Home.g.cs
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\View\Home.baml
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\LiveCharts.dll
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\LiveCharts.pdb
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\LiveCharts.xml
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\View\Filter.baml
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr_MarkupCompile.lref
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\View\Sources.baml
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\View\Sources.g.cs
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\View\About .baml
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\View\About .g.cs
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\Kaczmarek_Filtr.exe.config
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\Kaczmarek_Filtr.exe.manifest
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\Kaczmarek_Filtr.application
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\Kaczmarek_Filtr.exe
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\Kaczmarek_Filtr.pdb
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\LiveCharts.dll
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\MaterialDesignColors.dll
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\LiveCharts.pdb
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\LiveCharts.xml
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.csprojResolveAssemblyReference.cache
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\MainWindow.baml
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\View\About .baml
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\View\Sources.baml
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\View\Home.baml
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\App.baml
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\MainWindow.g.cs
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\View\About .g.cs
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\View\Sources.g.cs
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\View\Filter.g.cs
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\View\Home.g.cs
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\App.g.cs
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr_MarkupCompile.cache
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr_MarkupCompile.lref
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\View\Filter.baml
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.g.resources
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.Properties.Resources.resources
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.csproj.GenerateResource.Cache
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.exe.manifest
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.application
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.exe
+C:\Users\robso\Desktop\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.pdb
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\Kaczmarek_Filtr.exe.config
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\Kaczmarek_Filtr.exe.manifest
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\Kaczmarek_Filtr.application
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\Kaczmarek_Filtr.exe
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\Kaczmarek_Filtr.pdb
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\LiveCharts.dll
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\MaterialDesignColors.dll
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\LiveCharts.pdb
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\LiveCharts.xml
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.csprojResolveAssemblyReference.cache
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\MainWindow.baml
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\View\About .baml
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\View\Sources.baml
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\View\Home.baml
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\App.baml
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\MainWindow.g.cs
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\View\About .g.cs
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\View\Sources.g.cs
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\View\Filter.g.cs
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\View\Home.g.cs
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\App.g.cs
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr_MarkupCompile.cache
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr_MarkupCompile.lref
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\View\Filter.baml
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.g.resources
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.Properties.Resources.resources
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.csproj.GenerateResource.Cache
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.exe.manifest
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.application
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.exe
+C:\Users\robso\Desktop\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.pdb
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.csprojResolveAssemblyReference.cache
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\MainWindow.baml
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\View\About .baml
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\View\Sources.baml
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\View\Home.baml
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\App.baml
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\MainWindow.g.cs
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\View\About .g.cs
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\View\Sources.g.cs
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\View\Home.g.cs
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\App.g.cs
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr_MarkupCompile.cache
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.exe
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.pdb
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\View\Filter.g.cs
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr_MarkupCompile.lref
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\Kaczmarek_Filtr.exe.config
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\Kaczmarek_Filtr.exe.manifest
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\Kaczmarek_Filtr.application
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\Kaczmarek_Filtr.exe
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\Kaczmarek_Filtr.pdb
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\LiveCharts.dll
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\MaterialDesignColors.dll
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\LiveCharts.pdb
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\LiveCharts.xml
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\View\Filter.baml
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.g.resources
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.Properties.Resources.resources
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.csproj.GenerateResource.Cache
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.exe.manifest
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.application
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\View\Amplifier.g.cs
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\View\Amplifier.baml
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\View\Print.g.cs
+C:\Users\robso\Dropbox\KaczmarekRobert\Kaczmarek_Filtr\obj\Debug\View\Print.baml
+C:\Users\Jan\Desktop\apka_c#\nowa wersja\Kaczmarek_Filtr\bin\Debug\Kaczmarek_Filtr.exe.config
+C:\Users\Jan\Desktop\apka_c#\nowa wersja\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.exe
+C:\Users\Jan\Desktop\apka_c#\nowa wersja\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.pdb
+C:\Users\Jan\Desktop\apka_c#\nowa wersja\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.csprojResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\apka_c#\nowa wersja\Kaczmarek_Filtr\obj\Debug\MainWindow.baml
+C:\Users\Jan\Desktop\apka_c#\nowa wersja\Kaczmarek_Filtr\obj\Debug\View\About .baml
+C:\Users\Jan\Desktop\apka_c#\nowa wersja\Kaczmarek_Filtr\obj\Debug\View\Sources.baml
+C:\Users\Jan\Desktop\apka_c#\nowa wersja\Kaczmarek_Filtr\obj\Debug\App.baml
+C:\Users\Jan\Desktop\apka_c#\nowa wersja\Kaczmarek_Filtr\obj\Debug\MainWindow.g.cs
+C:\Users\Jan\Desktop\apka_c#\nowa wersja\Kaczmarek_Filtr\obj\Debug\View\About .g.cs
+C:\Users\Jan\Desktop\apka_c#\nowa wersja\Kaczmarek_Filtr\obj\Debug\View\Amplifier.g.cs
+C:\Users\Jan\Desktop\apka_c#\nowa wersja\Kaczmarek_Filtr\obj\Debug\View\Print.g.cs
+C:\Users\Jan\Desktop\apka_c#\nowa wersja\Kaczmarek_Filtr\obj\Debug\View\Sources.g.cs
+C:\Users\Jan\Desktop\apka_c#\nowa wersja\Kaczmarek_Filtr\obj\Debug\View\Filter.g.cs
+C:\Users\Jan\Desktop\apka_c#\nowa wersja\Kaczmarek_Filtr\obj\Debug\View\Home.g.cs
+C:\Users\Jan\Desktop\apka_c#\nowa wersja\Kaczmarek_Filtr\obj\Debug\App.g.cs
+C:\Users\Jan\Desktop\apka_c#\nowa wersja\Kaczmarek_Filtr\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jan\Desktop\apka_c#\nowa wersja\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr_MarkupCompile.cache
+C:\Users\Jan\Desktop\apka_c#\nowa wersja\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr_MarkupCompile.lref
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.csprojResolveAssemblyReference.cache
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\MainWindow.baml
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\View\About .baml
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\View\Sources.baml
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\App.baml
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\MainWindow.g.cs
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\View\About .g.cs
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\View\Amplifier.g.cs
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\View\Print.g.cs
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\View\Sources.g.cs
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\View\Filter.g.cs
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\View\Home.g.cs
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\App.g.cs
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr_MarkupCompile.cache
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr_MarkupCompile.lref
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.exe
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.pdb
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\bin\Debug\Kaczmarek_Filtr.exe.config
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\bin\Debug\Kaczmarek_Filtr.exe.manifest
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\bin\Debug\Kaczmarek_Filtr.application
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\bin\Debug\Kaczmarek_Filtr.exe
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\bin\Debug\Kaczmarek_Filtr.pdb
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\bin\Debug\LiveCharts.dll
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\bin\Debug\MaterialDesignColors.dll
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\bin\Debug\PdfSharp.Charting.dll
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\bin\Debug\PdfSharp.dll
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\bin\Debug\LiveCharts.pdb
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\bin\Debug\LiveCharts.xml
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\bin\Debug\PdfSharp.xml
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\bin\Debug\PdfSharp.Charting.xml
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\View\Amplifier.baml
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\View\Print.baml
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\View\Filter.baml
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\View\Home.baml
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.g.resources
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.Properties.Resources.resources
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.csproj.GenerateResource.Cache
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.exe.manifest
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.application
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\bin\Debug\MaterialDesignColors.pdb
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\View\AmplifierTaskDialog.g.cs
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\View\FilterTaskDialog.g.cs
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\View\AmplifierTaskDialog.baml
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\View\FilterTaskDialog.baml

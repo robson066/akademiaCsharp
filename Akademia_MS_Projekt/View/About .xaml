@@ -1,0 +1,64 @@
+﻿<UserControl x:Class="Akademia_MS_Projekt.About"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d"
+             d:DesignHeight="300" d:DesignWidth="300">
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Button.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.PopupBox.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.TextBlock.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/MaterialDesignColor.Green.Named.Primary.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <ScrollViewer Grid.Row="1" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto"
+                  HorizontalAlignment="Center"
+                  VerticalAlignment="Center"
+                  Margin="0 0 0 10">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <materialDesign:Card Width="840" Margin="8 2 4 16" Height="200" Grid.Column="0" Grid.Row="0">
+                    <Grid VerticalAlignment="Stretch">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="180" />
+                            <RowDefinition Height="70" />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="200" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <materialDesign:PackIcon Kind="MaterialUi" Height="160" Width="160" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        <StackPanel Grid.Column="1">
+                            <TextBlock Style="{StaticResource MaterialDesignHeadlineTextBlock}" Margin="16 16 16 16">Material Design</TextBlock>
+                            <TextBlock TextWrapping="Wrap" Margin="16 0 16 8" VerticalAlignment="Top">
+                                Aplikacja powstała w oparciu o  koncept Material Design autorstwa Google. Wykorzystano narzędzie Material Design In XAML Toolkit, 
+                                które nadało atrakcyjny interfejs aplikacji. Cała aplikacja bazuje na wzorcu projektowym w MVVM. Do wizualizacji wykresów skorzystano
+                                z narzędzia LiveCharts. Generacja pliku do PDF możliwa jest poprzez paczkę PDFSharp.</TextBlock>
+                            <TextBlock TextWrapping="Wrap" Margin="16 0 16 8" VerticalAlignment="Top">
+                                Autorami projektu są: Robert Kaczmarek (project manager) oraz Jakub Stencel.</TextBlock>
+                        </StackPanel>
+                    </Grid>
+                </materialDesign:Card>
+            </Grid>
+        </ScrollViewer>
+    </Grid>
+</UserControl>

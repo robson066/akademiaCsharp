@@ -1,0 +1,33 @@
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Release\Kaczmarek_Filtr.exe.config
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Release\Kaczmarek_Filtr.exe
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Release\Kaczmarek_Filtr.pdb
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Release\LiveCharts.dll
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Release\LiveCharts.Wpf.dll
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Release\MaterialDesignColors.dll
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Release\LiveCharts.pdb
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Release\LiveCharts.xml
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Release\LiveCharts.Wpf.xml
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Release\MainWindow.baml
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Release\View\About .baml
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Release\View\Sources.baml
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Release\View\Home.baml
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Release\App.baml
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Release\MainWindow.g.cs
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Release\View\About .g.cs
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Release\View\Sources.g.cs
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Release\View\Filter.g.cs
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Release\View\Home.g.cs
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Release\App.g.cs
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Release\Kaczmarek_Filtr_MarkupCompile.cache
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Release\Kaczmarek_Filtr_MarkupCompile.lref
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Release\View\Filter.baml
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Release\Kaczmarek_Filtr.g.resources
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Release\Kaczmarek_Filtr.Properties.Resources.resources
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Release\Kaczmarek_Filtr.csproj.GenerateResource.Cache
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Release\Kaczmarek_Filtr.exe
+C:\Users\robso\Dropbox\Programowanie aplikacji komputerowych\Kaczmarek_Filtr\Kaczmarek_Filtr\obj\Release\Kaczmarek_Filtr.pdb

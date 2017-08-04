@@ -1,0 +1,20 @@
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\Bakłażan.csprojResolveAssemblyReference.cache
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\MainWindow.baml
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\View\About .baml
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\View\Sources.baml
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\App.baml
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\MainWindow.g.cs
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\View\About .g.cs
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\View\Amplifier.g.cs
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\View\AmplifierTaskDialog.g.cs
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\View\Print.g.cs
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\View\Sources.g.cs
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\View\Filter.g.cs
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\View\Home.g.cs
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\View\FilterTaskDialog.g.cs
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\App.g.cs
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr_MarkupCompile.cache
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr_MarkupCompile.lref
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.exe
+C:\Users\robso\Desktop\ProjektC#\ProjektC#\Kaczmarek_Filtr\obj\Debug\Kaczmarek_Filtr.pdb
